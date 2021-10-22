@@ -8,7 +8,7 @@ class Calculator(object):
         self._last_answer = 0.0
 
     @property
-    def last_answer(self):
+    def last_answer(self):f
         return self._last_answer
 
     def add(self, a, b):
