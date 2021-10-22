@@ -1,6 +1,6 @@
 import sys
 
-from com.automationpanda.example.calc import Calculator
+from example.calc import Calculator
 
 # Attempt to use back-ported unittest2 for Python 2.6 and earlier
 # However, it is strongly recommended to use Python 2.7 or 3.<latest>
